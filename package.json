@@ -1,0 +1,16 @@
+{
+  "name": "primetrade-assignment",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:backend": "npm.cmd run dev --prefix backend",
+    "dev:frontend": "npm.cmd run dev --prefix frontend",
+    "dev": "concurrently \"npm.cmd run dev:backend\" \"npm.cmd run dev:frontend\"",
+    "build:backend": "npm.cmd run build --prefix backend",
+    "build:frontend": "npm.cmd run build --prefix frontend",
+    "build": "npm.cmd run build:backend && npm.cmd run build:frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
