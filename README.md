@@ -1,17 +1,17 @@
-# 🚀 Secure & Scalable Task Manager API & Dashboard
+# Secure & Scalable Task Manager API & Dashboard
 
 An enterprise-grade, monorepo-structured task management application. The project features a robust **Express + TypeScript + Prisma (SQLite)** REST API with JWT security and role-based access control, integrated with a highly responsive, modern, dark-themed **React + Vite + Vanilla CSS** frontend dashboard.
 
 ---
 
-## 🔗 Project Links
+## Project Links
 
 * **GitHub Repository:** [Malvika1905/primetrade-taskmanager](https://github.com/Malvika1905/primetrade-taskmanager)
 * **Live UI Dashboard:** [Vercel Deployment Preview](https://primetrade-taskmanager-5x4zzh7m2.vercel.app)
 
 ---
 
-## 🛠️ Architecture & Tech Stack
+## Architecture & Tech Stack
 
 ### Backend (REST API)
 - **Runtime & Framework:** Node.js + Express with TypeScript.
@@ -35,7 +35,7 @@ An enterprise-grade, monorepo-structured task management application. The projec
 
 ---
 
-## 📂 Monorepo Structure
+## Monorepo Structure
 
 ```text
 primetrade-assignment/
@@ -60,7 +60,7 @@ primetrade-assignment/
 
 ---
 
-## ⚡ Quick Start & Setup
+## Quick Start & Setup
 
 Ensure you have **Node.js (v18+)** and **npm** installed.
 
@@ -105,7 +105,7 @@ node verify_api.js
 
 ---
 
-## 📈 Scalability Note
+## Scalability Note
 
 To scale this application to support millions of active users, the following architectural additions should be implemented:
 
