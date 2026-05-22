@@ -4,6 +4,13 @@ An enterprise-grade, monorepo-structured task management application. The projec
 
 ---
 
+## 🔗 Project Links
+
+* **GitHub Repository:** [Malvika1905/primetrade-taskmanager](https://github.com/Malvika1905/primetrade-taskmanager)
+* **Live UI Dashboard:** [Vercel Deployment Preview](https://primetrade-taskmanager-5x4zzh7m2.vercel.app)
+
+---
+
 ## 🛠️ Architecture & Tech Stack
 
 ### Backend (REST API)
